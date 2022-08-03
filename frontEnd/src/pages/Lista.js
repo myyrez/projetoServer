@@ -93,7 +93,7 @@ export default function Lista(props ) {
         <TouchableOpacity 
         style={style.button}
         onPress={postTask}>
-            <MaterialIcons name="add" size={24}/>
+          <MaterialIcons name="add" size={24}/>
         </TouchableOpacity>
       </View>
     </>
